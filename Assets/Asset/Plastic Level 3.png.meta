@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 76f9069439e24b74495e099d0b276cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7594247163960865583
+    second: Plastic Level 3_0
+  - first:
+      213: 1407151159521012962
+    second: Plastic Level 3_1
+  - first:
+      213: -9188016903002152050
+    second: Plastic Level 3_2
+  - first:
+      213: -3092998051720975850
+    second: Plastic Level 3_3
+  - first:
+      213: 562091641562343084
+    second: Plastic Level 3_4
+  - first:
+      213: 5309486776976817651
+    second: Plastic Level 3_5
+  - first:
+      213: 3694459187686482007
+    second: Plastic Level 3_6
+  - first:
+      213: -5551761351286044655
+    second: Plastic Level 3_7
+  - first:
+      213: 1655604470640252584
+    second: Plastic Level 3_8
+  - first:
+      213: -5370044689942395762
+    second: Plastic Level 3_9
+  - first:
+      213: 491561739691180322
+    second: Plastic Level 3_10
+  - first:
+      213: 5658274575461427720
+    second: Plastic Level 3_11
+  - first:
+      213: -8517570822973530711
+    second: Plastic Level 3_12
+  - first:
+      213: 6293953404348557922
+    second: Plastic Level 3_13
+  - first:
+      213: -7825673108870343752
+    second: Plastic Level 3_14
+  - first:
+      213: -3058967390539845593
+    second: Plastic Level 3_15
+  - first:
+      213: 2984457900372163268
+    second: Plastic Level 3_16
+  - first:
+      213: 8110328953223117604
+    second: Plastic Level 3_17
+  - first:
+      213: -6703953987638613771
+    second: Plastic Level 3_18
+  - first:
+      213: 5547372732966292358
+    second: Plastic Level 3_19
+  - first:
+      213: -5627042483488190145
+    second: Plastic Level 3_20
+  - first:
+      213: 7791404222138415586
+    second: Plastic Level 3_21
+  - first:
+      213: -2515911471181257633
+    second: Plastic Level 3_22
+  - first:
+      213: -691255254287809342
+    second: Plastic Level 3_23
+  - first:
+      213: -4356930104058519581
+    second: Plastic Level 3_24
+  - first:
+      213: -8668478771009450890
+    second: Plastic Level 3_25
+  - first:
+      213: 3265015287986092737
+    second: Plastic Level 3_26
+  - first:
+      213: -5230145834940606780
+    second: Plastic Level 3_27
+  - first:
+      213: 6773094638804248288
+    second: Plastic Level 3_28
+  - first:
+      213: -6581885329046919189
+    second: Plastic Level 3_29
+  - first:
+      213: -2254927857162915684
+    second: Plastic Level 3_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plastic Level 3_0
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 984
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc489fb070db9690800000000000000
+      internalID: -7594247163960865583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 950
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec67803684378310800000000000000
+      internalID: 1407151159521012962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 955
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83a5429e4b9d7080800000000000000
+      internalID: -9188016903002152050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a223cc8a67315d0800000000000000
+      internalID: -3092998051720975850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 938
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62a82be53fcc700800000000000000
+      internalID: 562091641562343084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_5
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 928
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3651c7161fa940800000000000000
+      internalID: 5309486776976817651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 762
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502b3f9e0b554330800000000000000
+      internalID: 3694459187686482007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 859
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1184ada277e24f2b0800000000000000
+      internalID: -5551761351286044655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 688
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69f098e73e9f610800000000000000
+      internalID: 1655604470640252584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c2046ec4c975b0800000000000000
+      internalID: -5370044689942395762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 326
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221477f3cc062d600800000000000000
+      internalID: 491561739691180322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 312
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa0006fba368e40800000000000000
+      internalID: 5658274575461427720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_12
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 282
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5e6be6728bc980800000000000000
+      internalID: -8517570822973530711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 286
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6e03464d985750800000000000000
+      internalID: 6293953404348557922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 255
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d47905cf956390800000000000000
+      internalID: -7825673108870343752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 246
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7207e5b8d5d5c85d0800000000000000
+      internalID: -3058967390539845593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 231
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7ac6e5acea6920800000000000000
+      internalID: 2984457900372163268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 234
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfd6c663dad8070800000000000000
+      internalID: 8110328953223117604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_18
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 236
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8ac380e55c6f2a0800000000000000
+      internalID: -6703953987638613771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc4210c1a3cfc40800000000000000
+      internalID: 5547372732966292358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 227
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3197a3bcaab8e1b0800000000000000
+      internalID: -5627042483488190145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 238
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f9020cd0a02c60800000000000000
+      internalID: 7791404222138415586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_22
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 237
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5429e9c8dfa51dd0800000000000000
+      internalID: -2515911471181257633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48d07320b2866f0800000000000000
+      internalID: -691255254287809342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 217
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd26487231983c0800000000000000
+      internalID: -4356930104058519581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 196
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c87fe3c7063b780800000000000000
+      internalID: -8668478771009450890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_26
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 145
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca71aa0b1aaf4d20800000000000000
+      internalID: 3265015287986092737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 92
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c650e8d21aca67b0800000000000000
+      internalID: -5230145834940606780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_28
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 48
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a70840bddefd50800000000000000
+      internalID: 6773094638804248288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_29
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 38
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7adc16a2278a4a0800000000000000
+      internalID: -6581885329046919189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Level 3_30
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 92
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90fbaf9f03e4b0e0800000000000000
+      internalID: -2254927857162915684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
